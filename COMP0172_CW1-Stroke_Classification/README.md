@@ -1,0 +1,2 @@
+# In a nutshell
+Modelling with enough recall in highly imbalanced 4% stroke dataset. From baseline with 0 recall, create adjustable recall models, e.g. increasing to 0.75 at cost of 96% to 83% accuracy, only missing 7/40 at 4% prevalence.
