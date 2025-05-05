@@ -1,0 +1,2 @@
+# In a nutshell
+Learn and apply 5 diffusion MRI models with physical constraints and as optimisation problem. Parameter uncertainty estimation achieved with 4 different methods. Finally, conduct model selection using IC and CV, where Ball-and-Two-Stick stands out, followed by Zeppelin-and-Stick.
