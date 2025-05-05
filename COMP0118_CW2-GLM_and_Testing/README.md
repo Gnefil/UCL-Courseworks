@@ -1,0 +1,2 @@
+# In a nutshell
+Full decomposition of vector space created by any general linear model. Conduct null hypothesis testing with reduced model, f-test and t-test, proving to be equal. Also perform distinct flavours of permutation test.
