@@ -1,0 +1,2 @@
+# In a nutshell
+Readmission classification of diabetic patients. Preprocess bad-conditioned and large dataset (100k), found out Gradient Boosting model performed better than SVM and Random Forest, highlighting the overfitting of the later. It yielded 65.92% PR AUC. By recursive feature elimination, it increases speed by about 20% at cost of 5% AUC.
