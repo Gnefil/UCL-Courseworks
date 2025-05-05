@@ -1,0 +1,2 @@
+# In a nutshell
+Explore connectome properties and distinct models of tau spread in progressive stages of AD, where cluster coefficient and global efficiency are significantly different. Conducting AICc, WFKPP is found better than FKPP than NDM, suggesting that amyloid beta could serve as a weighting factor of the self-production rate apart from connectome spread. Null benchmarking further validates the importance of amyloid weights and connectome support through reweighting and rewiring respectively.
